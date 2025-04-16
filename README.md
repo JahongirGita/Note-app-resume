@@ -17,11 +17,17 @@ Note App is a lightweight and user-friendly Android application that allows user
 # 🛠 Technologies Used:
 
 Technology	Description
+
 Kotlin	Main programming language
+
 XML	UI layout design
+
 Room Database	Local database for storing notes
+
 MVVM	Architecture pattern for better code organization
+
 Single Activity	App structure with Fragments and Navigation
+
 LiveData + ViewModel	Lifecycle-aware UI updates
 
 
