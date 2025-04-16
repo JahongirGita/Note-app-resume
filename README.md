@@ -14,6 +14,8 @@ Note App is a lightweight and user-friendly Android application that allows user
 
 🔁 Single Activity – Simplified navigation using fragments and Navigation Component.
 
+💉 Dependency Injection – Makes the codebase modular and easy to maintain (e.g., using Hilt).
+
 # 🛠 Technologies Used:
 
 Technology	Description
@@ -29,6 +31,8 @@ MVVM	Architecture pattern for better code organization
 Single Activity	App structure with Fragments and Navigation
 
 LiveData + ViewModel	Lifecycle-aware UI updates
+
+Dependency Injection	For managing dependencies and improving testability
 
 
 # 📷 Screenshots
